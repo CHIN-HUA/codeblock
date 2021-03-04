@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601304093 source:c:\users\user\desktop\codeblock\tico c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<time.h>
+

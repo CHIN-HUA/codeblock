@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613199130 source:c:\users\user\desktop\codeblock\mod3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
