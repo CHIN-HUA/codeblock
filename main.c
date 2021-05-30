@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
 
 int main()
 {
@@ -17,7 +19,7 @@ int main()
 
                 if(n == 1) // n == i が埃1
                 {
-                    last = 1 //程计
+                    last = 1; //程计
                 }
             }
 
